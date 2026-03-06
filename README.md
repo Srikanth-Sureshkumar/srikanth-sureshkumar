@@ -51,7 +51,7 @@ HTML • CSS • Bootstrap • JavaScript
 
 🌐 Live Demo
 
-<a href="https://srikanth-sureshkumar.github.io/classicfeast_restaurant/">
+<a href="https://classicfeast-restaurant.vercel.app/">
 <img src="https://img.shields.io/badge/View%20Live%20Project-success?style=for-the-badge"/>
 </a>
 

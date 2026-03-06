@@ -102,7 +102,7 @@ Modern **mobile friendly landing page** built using responsive design.
 <p>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="www.linkedin.com/in/srikanth-sureshkumar"/>
 </a>
 
 <a href="#">

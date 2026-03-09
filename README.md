@@ -71,29 +71,13 @@ Features
 
 ## 📱 Responsive Landing Page
 
-Modern **mobile friendly landing page** built using responsive design.
+A modern mobile-friendly landing page built using responsive design with React.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srikanth-sureshkumar&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth-sureshkumar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧑‍💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-sureshkumar&layout=compact&theme=tokyonight"/>
-
-</p>
+🛠 Tech Stack
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
 ---
 

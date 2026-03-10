@@ -79,22 +79,36 @@ A modern mobile-friendly landing page built using responsive design with React.
 - HTML5
 - CSS3
 
+🌐 Live Demo
+
+<a href="https://srikanth-portfolio-delta.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Live%20Project-success?style=for-the-badge"/>
+</a>
+
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Srikanth-Sureshkumar&show_icons=true&theme=radical)
 
-<a href="https://www.linkedin.com/in/srikanth-sureshkumar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srikanth-Sureshkumar&layout=compact&theme=radical)
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
-</a>
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
 
 <a href="mailto:skanth.suresh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srikanth-sureshkumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://srikanth-portfolio-delta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>

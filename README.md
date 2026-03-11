@@ -91,8 +91,6 @@ A modern mobile-friendly landing page built using responsive design with React.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Srikanth-Sureshkumar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srikanth-Sureshkumar&layout=compact&theme=radical)
-
 ---
 
 ## 🔗 Connect With Me
